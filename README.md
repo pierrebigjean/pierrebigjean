@@ -2,8 +2,8 @@
 
 Hi ! I am a French fullstack developper with a business background and I’m looking for a job in a green tech company with a product management position.
 
-- 💻 I’m currently working on [Jicama](https://github.com/BeneNolte/jicama)
-
+- 💐 I’m currently working on [Bruyere](https://github.com/BeneNolte/Bruyere)
+- 💻 Go check my latest work [Jicama](https://github.com/BeneNolte/jicama)
 - 📫 How to reach me **pierrebigjean@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
