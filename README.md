@@ -1,11 +1,7 @@
 <h3 align="center">👋 Pierre's github profile 👋</h3>
 
-Hi ! I am a French fullstack developper with a business background (ESCP Business School).
-I’m currently looking for a job in a green tech company with a product management position 🌱
-
-- 💐 I’m currently working on [Bruyere](https://github.com/pierrebigjean/Bruyere)
-- 💻 Go check my latest work [Jicama](https://github.com/BeneNolte/jicama)
-- 📫 How to reach me **pierrebigjean@gmail.com**
+Hi ! Currently an intern product manager in Back Market
+I thrive in product management & look forward to stay in a greentech company 🌱
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
